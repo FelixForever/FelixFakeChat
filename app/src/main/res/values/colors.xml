@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--wechat color-->
+    <color name="wechat_theme">#22292c</color>
+    <color name="wechat_theme_border">#14191a</color>
+    <color name="wechat_bg">#ebebeb</color>
+    <color name="wechat_font_color">#353535</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_goback"
+            android:layout_width="@dimen/wechat_title_bar_height"
+android:src="@color/wechat_theme"
+            android:layout_height="@dimen/wechat_title_bar_height"/>
+
+        <EditText
+            android:layout_toRightOf="@id/iv_goback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/wechat_title_bg"
+            android:text="title"
+            android:textSize="@dimen/wechat_title_font"
+            />
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--wechat demo-->
+    <dimen name="wechat_state_bar_height">24dp</dimen>
+    <dimen name="wechat_title_bar_height">58dp</dimen>
+    <dimen name="wechat_title_font">28sp</dimen>
+    <dimen name="wechat_title_border">1dp</dimen>
+    <dimen name="wechat_title_padding">16dp</dimen>
+    <dimen name="wechat_back_padding_left">20dp</dimen>
+</resources>
